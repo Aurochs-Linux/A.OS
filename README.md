@@ -18,17 +18,26 @@ Aurochs Linux is yet another Linux distribution. We have a vision to make the de
 ## Initial Technical Specifications
 
 ⬆️**Parent:** Fedora Linux 34 
+
 💻**Desktop Enviroment:** GNOME Shell 3 with Extensions
+
 📦**Primary Packaging Technology:** Flatpack and RPM
+
 🪖**Kernel:** Fedora Kernel
+
 🏡**Installer:** Anaconda
 
 ## Future Technical Specifications
 A wishlist of specs we wish to accomplish in the future.
 
 ⬆️**Parent:** Self
+
 💻**Desktop Enviroment:** Paradigm Desktop Enviroment (PDE)
+
 📦**Primary Application Packaging Technology:** Flatpack
+
 📦**Primary System Packaging Technology:** RPM
+
 🪖**Kernel:** ZEN Kernel or Continue with Fedora Kernel
+
 🏡**Installer:** Person Friendly Installer (PFI)
