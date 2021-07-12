@@ -5,7 +5,7 @@
 
 ## What is Aurochs Linux?
 
-Aurochs Linux is yet another Linux distribution. We have a vision to make the desktop as usable as possible. We don't want to focus on enterprise or server software. 
+Aurochs Linux is yet another Linux distribution. We have a vision to make the desktop as usable as possible. We don't want to focus on enterprise or server software at the detremient to our desktop experince. 
 
 ## Core Values
 
@@ -19,7 +19,7 @@ Aurochs Linux is yet another Linux distribution. We have a vision to make the de
 
 ⬆️**Parent:** Fedora Linux 34 
 
-💻**Desktop Enviroment:** GNOME Shell 3 with Extensions
+💻**Desktop Enviroment:** [Pantheon](https://elementary.io/open-source) 
 
 📦**Primary Packaging Technology:** Flatpack and RPM
 
