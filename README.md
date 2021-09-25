@@ -32,7 +32,7 @@ A wishlist of specs we wish to accomplish in the future.
 
 ⬆️**Parent:** Self
 
-💻**Desktop Enviroment:** Paradigm Desktop Enviroment (PDE)
+💻**Desktop Enviroment:** A.Desktop
 
 📦**Primary Application Packaging Technology:** Flatpack
 
