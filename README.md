@@ -46,7 +46,12 @@ A wishlist of specs we wish to accomplish in the future.
 ###A.OS Extras
 
 💻📱 - A.ID: A single sign on system for all A.Services 
+
 💻📱 - A. Messenger: A rich messenger with possible SMS/RCS integration
+
 💻📱 - A.Social: A social media platform integrated into A.ID meant to be a microblogging service al a Twitter
+
 💻📱 - A.Sonas: An identity managment service integrated into A.ID to let a person quickly switch between online personas using a single login system
+
 💻📱 - A.ssistant: An API system allowing anyone to plug their own Voice Assistant into the OS easily. This project will also host the systems own default voice assistant.
+
