@@ -43,7 +43,7 @@ A wishlist of specs we wish to accomplish in the future.
 🏡**Installer:** A.Install
 
 
-###A.OS Extras
+### A.OS Extras
 
 💻📱 - A.ID: A single sign on system for all A.Services 
 
