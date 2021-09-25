@@ -5,12 +5,12 @@
 
 ## What is Aurochs Linux?
 
-Aurochs Linux is yet another Linux distribution. We have a vision to make the desktop as usable as possible. We don't want to focus on enterprise or server software at the detremient to our desktop experince. 
+Aurochs Linux is yet another Linux distribution. We have a vision to make the desktop as usable as possible. We don't want to focus on enterprise or server software at the detremient to our desktop experience. 
 
 ## Core Values
 
 1. Respect Privacy Rights of Users as far as possible within our own code base.
-2. Provide a sleek, fast, usable, newbie friendly Desktop Experince.
+2. Provide a sleek, fast, usable, newbie friendly Desktop Experience.
 3. Keep everything as stable as possible within our code base.
 4. Provide a mix of FOSS and Proprietary Software as possible.
 
